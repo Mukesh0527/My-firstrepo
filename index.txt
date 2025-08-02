@@ -1,1 +1,2 @@
 adding a file in github repo and trying to push this file to  git
+addedthe file to git and trying to push this file in jenkins
