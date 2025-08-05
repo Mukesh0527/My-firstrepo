@@ -1,6 +1,6 @@
 adding a file in github repo and trying to push this file to  git
 adding the web hooks configuration
 
-testing again1:wq!
+testing again
 
 addedthe file to git and trying to push this file in jenkins
